@@ -2,6 +2,10 @@
 
 A Streamlit web app that helps bus passengers sleep safely during night journeys by alerting them before their destination arrives.
 
+## Screenshots
+
+![Passenger Portal](screenshots/home.png)
+
 ## Features
 
 - Three portals: Passenger, Staff and Admin
